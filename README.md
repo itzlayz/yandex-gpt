@@ -10,7 +10,7 @@ git clone https://github.com/itzlayz/yandex-gpt
 cd yandex-gpt
 pip install -r requirements.txt
 ```
-3. Make main file in your folder and import sync/async api ([Example](yandex-gpt/README.md#Example))
+3. Make main file in your folder and import sync/async api ([Example](yandex-gpt/README.md#Example:))
 
 # Example:
 ```python
